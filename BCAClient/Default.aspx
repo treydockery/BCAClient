@@ -2,7 +2,9 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 <style>
-    /*Stuff I added.  Needs to go to CSS file*/
+    /*Stuff I added.  Needs to go to CSS file
+        Changed line to test github
+    */
     .stock {
         height: 42px;
         background-color: rgb(84, 84, 84);
